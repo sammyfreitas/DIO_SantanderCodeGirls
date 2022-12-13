@@ -100,4 +100,3 @@ Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça algu
 Se possível:
 ⭐️ Star o projeto
 🐛 Encontrar e relatar issues
-Disponibilizado com ♥ por cami-la - https://www.linkedin.com/in/cami-la/.
