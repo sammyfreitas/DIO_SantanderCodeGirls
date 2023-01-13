@@ -1,8 +1,10 @@
 # DIO_SantanderCodeGirls
+https://web.dio.me/track/santander-code-girls
 
 Santander Code Girls
  Intermediário
 肋 62 hrs
+
 
 Sejam todas bem-vindas ao Santander Bootcamp 2022! Comece sua jornada na trilha de Java, assista as aulas, faça os desafios de códigos e projetos e conclua as atividades. Todas as graduadas receberão certificado e terão chance de ingressar no mercado de trabalho!
 
@@ -53,3 +55,17 @@ Parabéns, você concluiu esse Bootcamp e agora está mais preparado para alcan�
 * Introdução ao Spring Framework
 
 
+
+
+🤝 Contribuindo Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar! 
+
+- 👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/) 
+
+- 📫 Minha caixa de entrada está sempre aberta. Se tiver alguma pergunta ou apenas dar um oizinho, será um prazer conversar com você! Bora conversar? **tonysdefreitas@gmail.com**
+
+- 📄 Encontra meu curriculo e experiências no [https://sammyfreitas.github.io/portfolioSite/curriculo.html](https://sammyfreitas.github.io/portfolioSite/curriculo.html)
+Emai
+
+<br>Se possível:  ⭐️ Star o projeto
+
+<img src="https://hermes.digitalinnovation.one/certificates/cover/D3CD49EB.jpg">
